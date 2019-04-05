@@ -1,9 +1,9 @@
 body {
   font: 16px garamond;
-  background-color: #C4CECD;  
-  padding: 10px 150px 10px 150px;
+  background-color: #f5f5ef;  
+  padding: 10px 15px 10px 15px;
 }
 
 h4 {
- border-bottom: 1px solid #999; 
+ border-bottom: 2px solid #1f1f14; 
 }
