@@ -1,4 +1,9 @@
 body {
-  background-color: gray;
+  font: 16px garamond;
+  background-color: #C4CECD;  
+  padding: 10px 150px 10px 150px;
 }
 
+h4 {
+ border-bottom: 1px solid #999; 
+}
