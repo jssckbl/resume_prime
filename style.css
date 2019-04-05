@@ -9,11 +9,13 @@ h3 {
   border-bottom: 2px solid #1f1f14; 
 }
 
+.date {
+    float: right;
+}
+
 h4 {
   border-bottom: 1px solid #d6d6c2;
 }
 
 
-.date {
-    float: right;
-}
+
