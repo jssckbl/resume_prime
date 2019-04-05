@@ -5,5 +5,10 @@ body {
 }
 
 h4 {
- border-bottom: 2px solid #1f1f14; 
+  letter-spacing: 2px;
+  border-bottom: 2px solid #1f1f14; 
+}
+
+.date {
+    float: right;
 }
