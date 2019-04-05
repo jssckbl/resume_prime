@@ -3,27 +3,28 @@ p {
 }
 
 body {
-  font: 12px garamond;
+  font-size: 12px garamond;
   background-color: #f5f5ef;  
   padding: 10px 15px 10px 15px;
 }
 
 h1 {
-  font-size: 40px;
-  letter-spacing: 1px;
   border-bottom:  1px solid #d6d6c2;
   margin-bottom: 2px;
+  font-size: 40px;
+  letter-spacing: 1px;
 }  
 
 h2 {
-  margin-top: 1px;
+  margin-top: 3px;
   margin-bottom: -2px;
-  font: 16px garamond; 
+  font-size: 16px garamond; 
 }
 
 h3 {
   margin-top: 25px;
   margin-bottom: -2px;
+  font-size: 18px garamond;
   letter-spacing: 2px;
   border-bottom: 1px solid #1f1f14; 
 }
