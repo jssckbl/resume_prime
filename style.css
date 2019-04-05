@@ -15,8 +15,7 @@ h1 {
 h2 {
   margin-top: 3px;
   margin-bottom: -2px;
-  font-size: 15px;
-  font-family: garamond; 
+  font-size: 15px; 
   font-weight: lighter;
 }
 
@@ -24,7 +23,6 @@ h3 {
   margin-top: 25px;
   margin-bottom: -2px;
   font-size: 18px;
-  font-family: garamond;
   letter-spacing: 2px;
   border-bottom: 1px solid #1f1f14; 
 }
