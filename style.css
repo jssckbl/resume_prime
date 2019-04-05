@@ -22,7 +22,8 @@ h2 {
 }
 
 h3 {
-  margin-top: 20px;
+  margin-top: 25px;
+  margin-bottom: -2px;
   letter-spacing: 2px;
   border-bottom: 1px solid #1f1f14; 
 }
