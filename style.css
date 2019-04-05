@@ -5,8 +5,10 @@ body {
 }
 
 h1 {
+  font-size: 40px;
   letter-spacing: 1px;
   border-bottom:  1px solid #d6d6c2;
+  margin-bottom: -15px;
 }  
 
 h2 {
@@ -23,6 +25,7 @@ h3 {
 }
 
 h4 {
+  margin-bottom: -8px;
   border-bottom: 1px solid #d6d6c2;
 }
 
